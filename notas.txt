@@ -1,0 +1,4 @@
+Nombre del estudiante: katherine
+Notas: 23.0, 20.0, 40.0, 80.0
+Promedio: 40.75
+
